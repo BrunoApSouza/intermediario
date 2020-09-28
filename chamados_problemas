@@ -5,12 +5,10 @@
 ### VERIFICAR ###
 LOCAÇÃO REVERSIVEl - SE EXISTE.
 *CRONOGRAMA  - KLEDIR CRM
-*deploy sigavi
+*deploy sigavi vai para QA
 *fala c/ fabio linked server  crm + gc
-** 7615627 / 7617897 data na integração
-*dat. de nascimento, sai como d-1?
-*sexta agora - Clarí
-*creci - travar na importação apenas na sec para o "SP"
+** ANALISE 7615627 / 7617897 data na integração
+* SIGAVI creci - travar na importação apenas na sec para o "SP"
 Ticket#7617895 — SIGA
 *helenaschultz@mvendas.com.br
 https://www.youtube.com/watch?v=Tz16d6frOr0 --mobizen
@@ -30,3 +28,9 @@ instalar o mobizen no computador
 clicar no icone e vai instalar mais pacotes
 fazer a autenticação no site
 instalar 
+
+- Cada filial terá um código próprio;
+- Possibilidade de ativar o ChatBot por empreendimento. Sendo assim, no menu Portal do Cliente do CMS terá uma nova opção de página para listar os empreendimentos e assim ativar/inativar o ChatBot em cada empreendimento.
+- Página de exemplo de implementação, fornecido pela Even: https://app.cogitant.ai/chatscript/v5/users/even/.
+
+Estimativa: 16h
