@@ -2,16 +2,19 @@
 
 ### PROBLEMAS ###
 
+### CALL/REUNIÕES ###
+
+qa tecnico ou áreas
+Financças?  é 1 semana?
+UX - elevado a quantidade de dias.
+
 ### VERIFICAR ###
-LOCAÇÃO REVERSIVEl - SE EXISTE.
-*CRONOGRAMA  - KLEDIR CRM
+*LOCAÇÃO REVERSIVEl - SE EXISTE, "tipo de contrato" ou "contato" - contrato locação.
 *deploy sigavi vai para QA
-*fala c/ fabio linked server  crm + gc
 ** ANALISE 7615627 / 7617897 data na integração
 * SIGAVI creci - travar na importação apenas na sec para o "SP"
 Ticket#7617895 — SIGA
-*helenaschultz@mvendas.com.br
-https://www.youtube.com/watch?v=Tz16d6frOr0 --mobizen
+
 
 #LGPD
 precisando agora:
@@ -22,15 +25,76 @@ consolidar cronograma
 -Martins - teste no docsign digitalizar e capturar teste pendente.
 -sites even com politicas
 -ver os users que o kitamura informou 
+-ver mkt e site (cookie / lgpd / consentimento, lgpd@even.com.br) site even + melnick + landpages 
 
-instalar o mobizen no celular
-instalar o mobizen no computador
-clicar no icone e vai instalar mais pacotes
-fazer a autenticação no site
-instalar 
 
-- Cada filial terá um código próprio;
-- Possibilidade de ativar o ChatBot por empreendimento. Sendo assim, no menu Portal do Cliente do CMS terá uma nova opção de página para listar os empreendimentos e assim ativar/inativar o ChatBot em cada empreendimento.
-- Página de exemplo de implementação, fornecido pela Even: https://app.cogitant.ai/chatscript/v5/users/even/.
+FASE1 qui 03/12/20
+ Pesquisa de satisfação
+ Módulo de Finanças
+ Home - Bloco das áreas
+FASE2 qui 28/01/21
+ Seletor de Contrato - Login
+ Tour 360
+ Módulo de Finanças (Atualização)
+ Documentos / Download de arquivos em lote
+ Compartilhamento de documentos via e-mail
+FASE3 qui 11/02/21
+ Compartilhamento de documentos via e-mail
+ Revisão das réguas de relacionamento
+ 
 
-Estimativa: 16h
+ Precisamos prever a inclusão de:
+ 
+ coleta de cookies se o fizemos no site;
+ Politicas de privacidade;
+ Consentimento de dados
+ 
+ 
+ 
+ 
+ ==================================================
+ Site, Portal e APP 
+ 
+ avaliando com a hubocomm
+ 
+ - politicas de privacidade;
+ - Cookies;
+ - informar o canal: lgpd@even.com.br;
+ - *Consentimento, estudar como vai ser realizado "flag","documento".
+ 
+ kitamura, tem clausulas de LGPD o kitamura, tem clausulas ? todos contratos. 
+ 
+ 
+ JOB
+ JOB txt.  BAT pega o txt e joga no FTP e a hubcom pega.
+ JOB
+ Atualiza QUERY , JOB vai atualiza a cliente na AZURE.
+ 
+ 
+ 1)executar script
+ 2)publicar dlls
+ 3)qrcode azueredevops
+ 
+ 
+ https://drive.google.com/drive/folders/15YRbFz3GZEgWlyxlpKmYHZYZ2tXkUBtH
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
