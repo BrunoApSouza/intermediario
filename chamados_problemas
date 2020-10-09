@@ -10,11 +10,12 @@ UX - elevado a quantidade de dias.
 
 ### VERIFICAR ###
 *LOCAÇÃO REVERSIVEl - SE EXISTE, "tipo de contrato" ou "contato" - contrato locação.
-*deploy sigavi vai para QA
 ** ANALISE 7615627 / 7617897 data na integração
-* SIGAVI creci - travar na importação apenas na sec para o "SP"
 Ticket#7617895 — SIGA
-
+*Sharepoint -->  barelli, criar juridico com permissão de escrita por um determinado tempo.
+orts --> mayara fila contratos(juridico)
+*7619551 -- manual restore
+EMAIL ADRIANO (DAÇÃO E RD , OTRS)
 
 #LGPD
 precisando agora:
@@ -26,7 +27,7 @@ consolidar cronograma
 -sites even com politicas
 -ver os users que o kitamura informou 
 -ver mkt e site (cookie / lgpd / consentimento, lgpd@even.com.br) site even + melnick + landpages 
-
+-ver com o joão paulo docsign
 
 FASE1 qui 03/12/20
  Pesquisa de satisfação
@@ -50,8 +51,6 @@ FASE3 qui 11/02/21
  Consentimento de dados
  
  
- 
- 
  ==================================================
  Site, Portal e APP 
  
@@ -62,35 +61,51 @@ FASE3 qui 11/02/21
  - informar o canal: lgpd@even.com.br;
  - *Consentimento, estudar como vai ser realizado "flag","documento".
  
- kitamura, tem clausulas de LGPD o kitamura, tem clausulas ? todos contratos. 
+ Boulevard vila maria / torre 1 bloco A / 62  --> está bloqueado a pedido da área.
+ 65562753000136 /  302255
+
+ Quintas da lapa f2 / torre C / 191 >> guilherme --> não tem contrato no GC
+
+ Testes realizados:
+
+ Quintas da lapa f2 / torre C / 22  >> RENATO OUAFA
+ Quintas da lapa f2 / torre C / 184 >> THIAGO DECARLI ATTIL
  
- 
- JOB
- JOB txt.  BAT pega o txt e joga no FTP e a hubcom pega.
- JOB
- Atualiza QUERY , JOB vai atualiza a cliente na AZURE.
- 
- 
- 1)executar script
- 2)publicar dlls
- 3)qrcode azueredevops
- 
- 
- https://drive.google.com/drive/folders/15YRbFz3GZEgWlyxlpKmYHZYZ2tXkUBtH
- 
- 
- 
- 
- 
- 
+ UMOV.ME
+ 7618331
+ 7618343
+ 7318461
+ 7618503
+ 7619168
+ GC
+ 7619069 -  GC - OK
  
  
  
+Completo -  proposto pela AGL
+-cadastro +  api ativo e receptivo
+-total: 48hrs
+
+Sem tela de cadastro
+-api ativo e receptivo
+-total: 40hrs
+
+Apenas API receptivo
+-sem cadastro pois vamos ter um mecânismo banco a banco e alimentar a base da API
+-sem a API ativo
+-total: 2
+
+#DocuSign
+-controle de acesso, modelo, ver a platoforma é o João.
+ MODELOS + novo + "assim ja ta na plataforma e ja converte para pdf" 
+ Define ordem, define destinatario 
+ Tem como definir com segurança, sms, assinatura de certificado didgital
  
+ *transferencia de custodia exemplo o UPLOADO é um analista que faz e o CLIENTE RECEBE REPASSE ou seja 
  
+ *sharepoint / onedrivetodo mundo recebe uma cópia no final no e-mail cadastrado mas pode salvar na nuven( sharepoint / onedrive)
  
- 
- 
+ *Hoje só temos uma integração com o contrafest(sistema contratação rh)
  
  
  
