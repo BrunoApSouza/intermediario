@@ -13,22 +13,18 @@ UX - elevado a quantidade de dias.
 ** ANALISE 7615627 / 7617897 data na integração
 Ticket#7617895 — SIGA
 *Sharepoint -->  barelli, criar juridico com permissão de escrita por um determinado tempo.
-orts --> mayara fila contratos(juridico)
-*7619551 -- manual restore
-EMAIL ADRIANO (DAÇÃO E RD , OTRS)
+*orts --> mayara fila contratos(juridico)
 
 #LGPD
 precisando agora:
 repositorio para ter acesso
 consolidar cronograma
 -conseguir identificar as midias no hypnobox.
--técnico midia hypnobox.
--Martins - teste no docsign digitalizar e capturar teste pendente.
 -sites even com politicas
--ver os users que o kitamura informou 
 -ver mkt e site (cookie / lgpd / consentimento, lgpd@even.com.br) site even + melnick + landpages 
--ver com o joão paulo docsign
+-HBOX
 
+#APP
 FASE1 qui 03/12/20
  Pesquisa de satisfação
  Módulo de Finanças
@@ -43,73 +39,28 @@ FASE3 qui 11/02/21
  Compartilhamento de documentos via e-mail
  Revisão das réguas de relacionamento
  
-
- Precisamos prever a inclusão de:
- 
- coleta de cookies se o fizemos no site;
- Politicas de privacidade;
- Consentimento de dados
- 
- 
  ==================================================
- Site, Portal e APP 
- 
- avaliando com a hubocomm
- 
- - politicas de privacidade;
- - Cookies;
- - informar o canal: lgpd@even.com.br;
- - *Consentimento, estudar como vai ser realizado "flag","documento".
- 
- Boulevard vila maria / torre 1 bloco A / 62  --> está bloqueado a pedido da área.
- 65562753000136 /  302255
-
- Quintas da lapa f2 / torre C / 191 >> guilherme --> não tem contrato no GC
-
- Testes realizados:
-
- Quintas da lapa f2 / torre C / 22  >> RENATO OUAFA
- Quintas da lapa f2 / torre C / 184 >> THIAGO DECARLI ATTIL
- 
  UMOV.ME
  7618331
  7618343
  7318461
  7618503
  7619168
- GC
- 7619069 -  GC - OK
- 
- 
- 
-Completo -  proposto pela AGL
--cadastro +  api ativo e receptivo
--total: 48hrs
 
-Sem tela de cadastro
--api ativo e receptivo
--total: 40hrs
+Gerentes e Coodenadores de cada área pode subir
+se tiver abaixo: 4 users jcamapos@even
 
-Apenas API receptivo
--sem cadastro pois vamos ter um mecânismo banco a banco e alimentar a base da API
--sem a API ativo
--total: 2
 
-#DocuSign
--controle de acesso, modelo, ver a platoforma é o João.
- MODELOS + novo + "assim ja ta na plataforma e ja converte para pdf" 
- Define ordem, define destinatario 
- Tem como definir com segurança, sms, assinatura de certificado didgital
- 
- *transferencia de custodia exemplo o UPLOADO é um analista que faz e o CLIENTE RECEBE REPASSE ou seja 
- 
- *sharepoint / onedrivetodo mundo recebe uma cópia no final no e-mail cadastrado mas pode salvar na nuven( sharepoint / onedrive)
- 
- *Hoje só temos uma integração com o contrafest(sistema contratação rh)
- 
- 
- 
- 
+Carteira cedida - CRM
+-  mandar msg  gc >> crm
+-  portal do cliente bloqueado (sim ou não)
+-  gestão carteira (interna ou externa)
+-  tipo bit carteira sem divida deixar oculto no form
+
+
+#chatbot
+plataforma preparada para os assuntos com 2 acessos(embarque + papeis e resposabilidades)
+
  
  
 
