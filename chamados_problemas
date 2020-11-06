@@ -4,16 +4,22 @@
 
 ### CALL/REUNIÕES ###
 
+https://evenconstrutora.zoom.us/j/89504345531
+
 qa tecnico ou áreas
 Financças?  é 1 semana?
 UX - elevado a quantidade de dias.
 
 ### VERIFICAR ###
-*LOCAÇÃO REVERSIVEl - SE EXISTE, "tipo de contrato" ou "contato" - contrato locação.
 ** ANALISE 7615627 / 7617897 data na integração
 Ticket#7617895 — SIGA
-*Sharepoint -->  barelli, criar juridico com permissão de escrita por um determinado tempo.
-*orts --> mayara fila contratos(juridico)
+crm novo ambiente, ver c/ Daniel 
+VER C/ FABIO OUTRAS APLICAÇÕES XXX
+fabio verificar inibição de dados (email, telef, nome, cpf)
+*Farol CRM
+*E-mail CRM
+*Subir na proxima RDM - FINANÇAS ver c/ Paulo.
+
 
 #LGPD
 precisando agora:
@@ -22,23 +28,25 @@ consolidar cronograma
 -conseguir identificar as midias no hypnobox.
 -sites even com politicas
 -ver mkt e site (cookie / lgpd / consentimento, lgpd@even.com.br) site even + melnick + landpages 
--HBOX
+-matriz cliente(nov/dez 20) fornce, contr(mar 2021) interno(ago 2021)
+- tirar os user genericos
 
-#APP
-FASE1 qui 03/12/20
- Pesquisa de satisfação
- Módulo de Finanças
- Home - Bloco das áreas
-FASE2 qui 28/01/21
- Seletor de Contrato - Login
- Tour 360
- Módulo de Finanças (Atualização)
- Documentos / Download de arquivos em lote
- Compartilhamento de documentos via e-mail
-FASE3 qui 11/02/21
- Compartilhamento de documentos via e-mail
- Revisão das réguas de relacionamento
- 
+- eles entendem que esteja em de acordo.
+- site even flag podemos ver com hub(talvez ter um contrato).
+
+-site even ter um flag com essa informação no 
+-verticais 
+
+-matriz nova
+-sigavi novos testes
+-hbox falta o cronograma
+
+extração
+SP - michel, wladimir, kandir(user em cad regional)  -  user adms que podem extrair dados cli e oferta
+RJ - Flipe, leonardo, ILMA                           -  user adms que podem extrair dados cli e oferta
+CONSENTIMENTO - origem, ip, data 
+ÁREA LUCÃO , PERAZZA , MARTINS
+
  ==================================================
  UMOV.ME
  7618331
@@ -50,17 +58,98 @@ FASE3 qui 11/02/21
 Gerentes e Coodenadores de cada área pode subir
 se tiver abaixo: 4 users jcamapos@even
 
-
 Carteira cedida - CRM
--  mandar msg  gc >> crm
--  portal do cliente bloqueado (sim ou não)
--  gestão carteira (interna ou externa)
--  tipo bit carteira sem divida deixar oculto no form
+-  nome divida/carteira                               -> new_nomecarteira
+-  mensagem cliente portal                            -> new_mensagem_cliente_portal
+-  Tipo gestão carteira (interna ou externa)          -> new_tipo_gestao_de_carteira  ()
+-  bloqueado portal do cliente  (sim ou não)          -> new_bloquei_portal_cliente ()
+-  tipo bit carteira sem divida deixar oculto no form -> new_carteira_sem_divida
 
+=== evolução app/portal
+https://c0vfco.axshare.com
 
-#chatbot
-plataforma preparada para os assuntos com 2 acessos(embarque + papeis e resposabilidades)
+saldo devedor do dia ou do fim do mês e qual mostrar no app, é a duvida que foi levantada na reunião? --> do dia corrente confirmado.
+geração antecipação real time, somente itau por enquanto.
 
+é utilizado sim antes a área , 
+
+*26/10 antecipação botão selecionar todos - como vai ficar a quitação total do fluxo de pagamento? pode? a área precisa aprovar?
+       
+	               -seleciona todas para selecionar? e o cliente fica com 2 boletos o do mes vigente mais o de quitação.
+	               -da para selecionar tudo em 1 unico boleto e pronto - tem que desenvolver
+	
+
+passar alguns paramentros para ele
+
+1) na hora que instancia os bots passas as informações:
+
+prevendo integrações
+nome / cliente  /  contrato / empreendiemento / cpf / 
+
+quantos chamados crm 
+
+2) discutir na reunião de sexta 6/11
+*Evolução de parcelas para o cliente
+*API Finanças
+*se usam muito no APP
+*esforço grande
+*se pode ficar apenas no portal e não teria no app
+
+*proposto deixar a evolução somente no portal a lista ficaria no 
+ portal.
  
- 
+clicar no extrato e já aparece a lista
+
+
+entrega de chaves
+ast (abertura de chamados)
+2 via boleto
+
+reunião - sigavi (andrieli, eve?)
+reuniao - ti melnick (pmo, sis e martins)
+
+-O Bot será apenas para SP
+-Escopo para implementação hubcomm
+-Cada filial terá um código próprio
+-Possibilidade de ativar o ChatBot por empreendimento. 
+-Sendo assim, no menu Portal do Cliente do CMS terá uma nova opção de página para listar os 
+empreendimentos e assim ativar/inativar o ChatBot em cada empreendimento.
+
+"cod Cliente":
+"Cli Cod Sap":
+"cod Empreendimento":
+"cod Torre Ou Bloco":
+"cod Unidade":
+"CtrCod"
+
+
+no javascript da para passar os parametros que a even precisa
+id por filial, e bot igual para todos empreendimentos no momento, filial/marca
+
+declaração adequação do fornecedor, declaro que os dados tratados,
+se tiver alguam evidencia, log, 
+
+
+Parar 
+[
+corretor temporario - manter informações das visitas ou plantão eterno ou só registra para even
+corretor fixo 
+]
+[
+#STAND
+STAND EVEN VENDAS
+LOPEZ
+PARCERIAS(SÓ AGENDADO).
+]
+
+
+
+				   
+
+
+
+
+
+
+
 
